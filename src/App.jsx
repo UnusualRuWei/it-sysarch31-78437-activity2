@@ -6,10 +6,11 @@ function App() {
   
   return(
     <>
-    <Header/>
-    <body className="mainBody">
+    <title>Title of the document</title>
+    <Header/> 
+
     <Student/>
-    </body>   
+    
     <Footer/>
     </>
   );
